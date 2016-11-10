@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+    // names
     Spinner spp;
     String names [] = {"sunday","monday","tuesday","wednesday","thursday","friday","saturday"};
     @Override
